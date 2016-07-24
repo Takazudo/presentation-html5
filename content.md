@@ -464,11 +464,14 @@ ctx.drawImage(frame ,0,0);
 
 ![](imgs/webgl/cpu-and-gpu.png)
 
+[What is GPU Computing?](http://www.nvidia.com/object/what-is-gpu-computing.html)
+
+
 ---
 
 ![](imgs/webgl/gpuexp1.png)
 
-https://www.youtube.com/watch?v=-P28LKWTzrI
+[Mythbusters Demo GPU versus CPU](https://www.youtube.com/watch?v=-P28LKWTzrI)
 
 ---
 
@@ -693,6 +696,9 @@ http://newyear.delaneau.com/
 
 <img src="imgs/webrtc/exp.png" alt="" style="width:100%">
 
+[ビデオチャットもさくっと作れる！ WebRTCによるブラウザ間リアルタイム通信はじめの一歩](https://codezine.jp/article/detail/8099)
+
+
 ---
 
 ![](imgs/webrtc/sky.png)
@@ -777,9 +783,14 @@ http://newyear.delaneau.com/
 
 ![](imgs/drag/mov.gif)
 
+[ネイティブ HTML5 ドラッグ＆ドロップ<br>HTML5 Rocks](http://www.html5rocks.com/ja/tutorials/dnd/basics/)
+
+
 ---
 
 ![](imgs/drag/gp.png)
+
+Google Photos
 
 ----
 
@@ -789,7 +800,7 @@ http://newyear.delaneau.com/
 
 ---
 
-![](imgs/fullsc/fullsc.png)
+<img src="imgs/fullsc/fullsc.png" alt="" style="width: 85%">
 
 [Instant caribbean vacation](http://awaywego.carnival.com/360vacation/)
 
@@ -838,7 +849,9 @@ http://newyear.delaneau.com/
 
 ----
 
-<img src="imgs/etc/cgcard.jpg" alt="" style="width: 85%">
+<img src="imgs/etc/cgcard.jpg" alt="" style="width: 65%">
+
+[CodeGrid](http://www.codegrid.net/)
 
 ----
 
