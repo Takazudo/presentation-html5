@@ -1,3 +1,9 @@
+<p style="line-height:1.4;font-size:3em">[2016-7-24<br>HTML5感](http://html5exam.jp/newsdetail/seminar20160724/)</p>
+
+<p style="line-height:1.4;font-size:2em">[html5exam.jp](http://html5exam.jp/)</p>
+
+----
+
 <h1 style="line-height:1.4;font-size:2em">HTML5でこんなことが<br>できるというのを<br>ひたすら紹介する50分</h1>
 
 <p style="margin-bottom:0;padding-bottom:0">高津戸壮 <a href="https://twitter.com/Takazudo">@Takazudo</a></p>
